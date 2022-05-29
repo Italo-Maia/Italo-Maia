@@ -20,14 +20,12 @@
 <a href="https://www.linkedin.com/in/italo-barbosa-maia-8b98b822a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 
-<img alt="" src="https://agenda.infn.it/event/20813/images/6201-giphy.gif" style="height: 30px; width: 100%;">
 <div>
   <a href="https://github.com/Italo-Maia">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Italo-Maia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Maia&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  <br>
- <img alt="" src="https://agenda.infn.it/event/20813/images/6201-giphy.gif" style="height: 30px; width: 100%;">
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=282a36&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&color=282a36&logo=typescript)&nbsp;
