@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
- ☑️ Minhas Skills: <strong>HTML, CSS, JavaScript, ReactJS, SASS, Typescript, NODE </strong>
+ ☑️ Minhas Skills: <strong>HTML, CSS, JavaScript, ReactJS, NEXT.js, NODE </strong>
 </p>
 
 <p align="left">
